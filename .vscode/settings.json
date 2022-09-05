@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 1000,
+            "server": "KikezeMiniPC",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "Kikeze Mini Server",
+            "database": "CursoNode",
+            "username": "sa",
+            "password": "Mexico321",
+            "connectionTimeout": 3,
+            "connectString": "Server=KikezeMiniPC\\SQL2019; Database=CursoNode; Uid=sa; Pwd=Mexico321;"
+        }
+    ]
+}
